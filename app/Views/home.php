@@ -407,6 +407,11 @@
   <footer>
     <p>© <span id="year"></span> Maya | Chief Experience Architect</p>
     <p style="margin-top: 0.5rem;">Built with clarity, speed, and accessibility in mind. WCAG 2.2 AA compliant.</p>
+    <p style="margin-top: 0.5rem; font-size: 0.8rem;">
+      <a href="https://github.com/nehemiaobati/Maya" target="_blank" rel="noopener" style="color: var(--primary);">
+        View this project on GitHub
+      </a>
+    </p>
   </footer>
 
   <script>
