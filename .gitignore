@@ -1,0 +1,41 @@
+# CodeIgniter 4 .gitignore
+
+# Environment configuration
+.env
+
+# Writable directory contents (except .gitkeep files)
+/writable/cache/*
+!/writable/cache/.gitkeep
+/writable/logs/*
+!/writable/logs/.gitkeep
+/writable/session/*
+!/writable/session/.gitkeep
+/writable/uploads/*
+!/writable/uploads/.gitkeep
+
+# Composer dependencies
+/vendor/
+
+# IDE/editor files
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node dependencies (if using)
+/node_modules/
+
+# Misc
+*.log
+*.tmp
+*.temp
