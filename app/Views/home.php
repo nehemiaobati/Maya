@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Maya - Chief Experience Architect specializing in Conversion Rate Optimization, UX Architecture, and Behavioral Design">
   <title>Maya | Chief Experience Architect</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <style>
     /* Reset & Base */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -407,6 +408,11 @@
   <footer>
     <p>© <span id="year"></span> Maya | Chief Experience Architect</p>
     <p style="margin-top: 0.5rem;">Built with clarity, speed, and accessibility in mind. WCAG 2.2 AA compliant.</p>
+    <p style="margin-top: 0.5rem; font-size: 0.8rem;">
+      <a href="https://github.com/nehemiaobati/Maya" target="_blank" rel="noopener" style="color: var(--primary);">
+        View this project on GitHub
+      </a>
+    </p>
   </footer>
 
   <script>
